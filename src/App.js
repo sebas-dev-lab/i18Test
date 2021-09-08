@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import './helpers/i18';
+
 
 function App() {
   return (
